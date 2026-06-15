@@ -19,6 +19,7 @@ contact@WilliamAshley.music
 
 # Balancer Plus (GainMono Pro) VST3 Plugin
 (I've prepared a Medium Article related to this plugin that may provided additional useful information on some design principles background and use: https://medium.com/@12264447666.williamashley/mid-side-processing-mono-compatibility-stereo-math-and-free-vst3-plugin-balancer2-plus-dc3065c63e57 ) 
+
 **Version:** 2.01 (Alpha)  
 **License:** GPL-3.0  
 
