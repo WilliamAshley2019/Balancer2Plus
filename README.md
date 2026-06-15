@@ -39,8 +39,8 @@ Featuring a custom "AlphaAudio" dark-themed UI, it provides precise gain staging
 - **Phase-Coherent Crossover**: Utilizes a unique Mid/Side subtraction method for the Bass Focus filter, ensuring zero phase cancellation or frequency "holes" at the crossover point.
 - **CPU Optimized**: Features an "early exit" architecture. If bypassed or set to unity gain with no processing, it consumes virtually zero CPU.
 
-### Custom "AlphaAudio" UI
-- **Dark Charcoal & Amber-Gold Palette**: A sleek, modern aesthetic designed for low-eye-strain in dark studio environments.
+### Custom "AlphaAudio" UI Boiler
+- **Amber-Gold Palette**: A sleek, modern aesthetic designed for low-eye-strain in dark studio environments.
 - **Custom LookAndFeel (`AlphaLAF`)**: Features amber-arc rotary knobs, LED-style toggle buttons (Bypass glows red), and custom vertical linear sliders.
 - **Sectioned Layout**: Clearly divided into **GAIN**, **MONITOR**, and **BASS FOCUS** panels for an intuitive workflow.
 
