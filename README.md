@@ -91,7 +91,11 @@ JUCE Framework (GPLv3 license)
 Steinberg VST3 SDK (Developers may use it to create and distribute VST3 plugins but may not redistribute the SDK itself)
 Contributing
 Contributions, bug reports, and pull requests are welcome! If you adapt this code for your own personal interest or plugin designs, please drop me a line. I love seeing how the community utilizes and modifies this framework.
+
 Contact & Support
+
 Website: http://WilliamAshley.music
+
 GitHub: https://github.com/WilliamAshley2019
+
 Email: contact@WilliamAshley.music
